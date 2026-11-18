@@ -1,6 +1,6 @@
 # Water temperature readings (celcius)
 
-measurements=[16.0, 18.0, 19.0, 30.0] 
+measurements=[16.0, 18.0, 19.0, 20.0] 
 
 def calculate_mean(values): return sum(values)/len(values)
     """Return the arithmetic mean of a non-empty sequence of numbers"""

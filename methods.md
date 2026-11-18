@@ -2,4 +2,4 @@
 
 -All measurements are expressed in Celsius
 - We calculate the mena by using 'calculate_mean.py'
-- The reading of 30 C is very high and must be checked out.
+- Field notes verified that the last reading as 20C.
